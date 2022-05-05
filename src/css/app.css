@@ -1,0 +1,22 @@
+.center {
+ 
+    color:green;
+    text-align: left;
+
+}
+
+.form-group {
+    margin-top: 40px;
+    width: 400px;
+}
+.float-left {
+    float: left;
+    align-items: left;
+    justify-content: left;
+    width: 400px;
+    text-align: le;
+}  
+
+.detail{
+    margin-top: 10px;
+}
